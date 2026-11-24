@@ -1,0 +1,16 @@
+{
+  "atractivos": {
+    "volcan-poas": {
+      "horario": "Aprox. 7:00 a.m. – 2:00 p.m. (con reservación por tandas)",
+      "costo": "Entrada con tarifa SINAC. Reservación en línea obligatoria."
+    },
+    "finca-koki": {
+      "horario": "Lunes a domingo, aprox. 7:00 a.m. – 5:00 p.m.",
+      "costo": "Entrada por persona (económica); actividades y camping aparte."
+    },
+    "doka-estate": {
+      "horario": "Tours en horario de mañana y tarde",
+      "costo": "Tarifa por persona según el tour"
+    }
+  }
+}
